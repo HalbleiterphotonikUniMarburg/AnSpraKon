@@ -1,7 +1,7 @@
 # AnSpraKon
 Reads 7-Segment Displays with OpenCV and SSOCR, than speak the output with nanoTTS.
 
-AnSpraKon is developed by [AG Koch -Semiconductor Photonics](https://www.uni-marburg.de/en/fb13/semiconductor-photonics) at [Philipps-Universität Marburg](https://www.uni-marburg.de).
+AnSpraKon is developed by [AG Koch - Semiconductor Photonics](https://www.uni-marburg.de/en/fb13/semiconductor-photonics) at [Philipps-Universität Marburg](https://www.uni-marburg.de).
 
 
 
