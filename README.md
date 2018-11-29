@@ -12,6 +12,8 @@ which were specifically designed for each device.
 
 The provided ArchARM image is an usable example for the RPi 1 Modell A+.
 
+Look [here](https://github.com/HalbleiterphotonikUniMarburg/AnSpraKon/wiki/AnSpraKon-ArchARM-Rpi-1-Model-A-) in the wiki for the image-download and more information.
+
 # Dependencies
 * Python3
 * OpenCV 3
